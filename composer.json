@@ -1,6 +1,6 @@
 {
   "name": "filament/system-tools",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "System tools plugin",
   "type": "library",
   "license": "MIT",
